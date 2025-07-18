@@ -1,0 +1,44 @@
+{
+    "database": {
+        "mysql": {
+            "host": "124.220.67.79",
+            "port": 3306,
+            "user": "user001",
+            "password": "USER001root@",
+            "db_name": "xhs"
+        }
+    },
+    "proxy": {
+        "china": {
+            "host": "j167.kdltpspro.com",
+            "port": 15818,
+            "username": "t11743147598820",
+            "password": "cw7rk268"
+        },
+        "global": {
+            "host": "127.0.0.1",
+            "port": 7890
+        }
+    },
+    "params": {
+        "cookie": "loadts=1746940317141;xsecappid=xhs-pc-web;acw_tc=0a00db0d17469402950834458e51f4c012113596e0d65afd9e6305dde8e316;websectiga=7750c37de43b7be9de8ed9ff8ea0e576519e8cd2157322eb972ecb429a7735d4;webBuild=4.62.3;sec_poison_id=a50c8674-ae3b-4c30-bcb3-465d9968b6f1;web_session=040069b7589a635d419436b13b3a4bf864a757;gid=yjKK0dWYD2CjyjKK0dWW8fK94yxfTJ3C1TVMAF4UCdAxjf28jfDIKk888J82jqJ8fqSqqd0J;a1=1966ae77041hdk2ixlkjspxeqh99dbn6xdqdg6tr450000205932;abRequestId=bf7b04f8-11dd-5b28-950e-f3243c3414a8;unread={%22ub%22:%22681cd921000000002100de8e%22%2C%22ue%22:%226819fb63000000002001c077%22%2C%22uc%22:28};webId=036ea57b16d5490eea0239156d23e25a",
+        "xtoken": "xtoken",
+        "comment_templates": {
+            "search": {
+                "programming": [
+                    "可以的"
+                ],
+                "data": [
+                    "可以的"
+                ],
+                "general": [
+                    "可以的"
+                ]
+            }
+    }},
+    "server": {
+        "host": "0.0.0.0",
+        "port": 8000,
+        "debug": true
+    }
+}
